@@ -7,3 +7,6 @@
 ## Серверная часть:
 Требования: PHP 7.2, mysql
 Файл: api.php
+
+## Демонстрация работы:
+[YOUTUBE](https://youtu.be/bQZ7yy5FVBc)
